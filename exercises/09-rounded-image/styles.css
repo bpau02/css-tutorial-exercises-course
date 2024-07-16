@@ -2,5 +2,9 @@ body {
 	background: #bdbdbd;
 }
 .rounded {
+	width: 500px;
+	height: 500px;
 	border-radius: 100%;
+	object-fit: cover;
+	object-position: top;
 }
